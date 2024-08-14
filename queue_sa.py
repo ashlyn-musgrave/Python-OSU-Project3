@@ -1,5 +1,4 @@
 # Name: Ashlyn Musgrave
-# OSU Email: musgraas@oregonstate.edu
 # Course: CS261 - Data Structures
 # Assignment: Assignment 3: Linked List and ADT Implementation
 # Due Date: November 6, 2023

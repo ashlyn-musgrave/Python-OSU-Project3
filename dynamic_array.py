@@ -1,5 +1,4 @@
 # Name:Ashlyn Musgrave
-# OSU Email: musgraas@oregonstate.edu
 # Course: CS261 - Data Structures
 # Assignment:Assignment 2: Dynamic Array and ADT Implementation
 # Due Date:Oct. 30, 2023
